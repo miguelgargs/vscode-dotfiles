@@ -42,4 +42,9 @@
         "command": "editor.action.copyLinesUpAction",
         "when": "editorTextFocus && !editorReadonly"
     }
+        {
+        "key": "ctrl+[Backslash]",
+        "command": "editor.action.blockComment"
+    }
+  
 ]
